@@ -44,7 +44,9 @@
     <Compile Include="CheckBoxParent.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="OneShot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerialPortInfo.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
